@@ -1,4 +1,4 @@
-import { OakContext, Options, AuthData, TokenData} from '../types.ts';
+import { OakContext, Options, AuthData, TokenData} from './types.ts';
 import { Base64 } from 'https://deno.land/x/bb64/mod.ts';  
 
 /**
